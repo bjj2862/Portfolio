@@ -1,0 +1,64 @@
+Sun Aug  2 01:43:38 2015
+Sun Aug  2 01:43:52 2015
+h : 0 m : 0 s : 14 
+iter1 = 1 .	 The difference_eff = 1.00000000 .
+difference : 0.00003732	0.00002063	0.00001124	0.00000545
+Sun Aug  2 02:06:25 2015
+h : 0 m : 22 s : 47 
+iter1 = 2 .	 The difference_eff = 0.00003732 .
+difference : 0.00001804	0.00000997	0.00000541	0.00000266
+Sun Aug  2 02:28:52 2015
+h : 0 m : 45 s : 14 
+iter1 = 3 .	 The difference_eff = 0.00001804 .
+difference : 0.00000885	0.00000487	0.00000266	0.00000131
+Sun Aug  2 02:51:17 2015
+h : 1 m : 7 s : 39 
+iter1 = 4 .	 The difference_eff = 0.00000885 .
+difference : 0.00000440	0.00000240	0.00000133	0.00000067
+Sun Aug  2 03:13:44 2015
+h : 1 m : 30 s : 6 
+iter1 = 5 .	 The difference_eff = 0.00000440 .
+difference : 0.00000223	0.00000119	0.00000067	0.00000037
+Sun Aug  2 03:36:19 2015
+h : 1 m : 52 s : 41 
+iter1 = 6 .	 The difference_eff = 0.00000223 .
+difference : 0.00000117	0.00000060	0.00000034	0.00000024
+Sun Aug  2 03:58:55 2015
+h : 2 m : 15 s : 17 
+iter1 = 7 .	 The difference_eff = 0.00000117 .
+difference : 0.00000065	0.00000030	0.00000018	0.00000018
+Sun Aug  2 04:21:22 2015
+h : 2 m : 37 s : 44 
+iter1 = 8 .	 The difference_eff = 0.00000065 .
+difference : 0.00000040	0.00000016	0.00000009	0.00000016
+Sun Aug  2 04:43:49 2015
+h : 3 m : 0 s : 11 
+iter1 = 9 .	 The difference_eff = 0.00000040 .
+difference : 0.00000028	0.00000009	0.00000005	0.00000014
+Sun Aug  2 05:06:19 2015
+h : 3 m : 22 s : 41 
+iter1 = 10 .	 The difference_eff = 0.00000028 .
+difference : 0.00000022	0.00000006	0.00000003	0.00000014
+Sun Aug  2 05:29:00 2015
+h : 3 m : 45 s : 22 
+iter1 = 11 .	 The difference_eff = 0.00000022 .
+difference : 0.00000019	0.00000004	0.00000002	0.00000013
+Sun Aug  2 05:51:26 2015
+h : 4 m : 7 s : 48 
+iter1 = 12 .	 The difference_eff = 0.00000019 .
+difference : 0.00000017	0.00000003	0.00000001	0.00000013
+Sun Aug  2 06:13:51 2015
+h : 4 m : 30 s : 13 
+iter1 = 13 .	 The difference_eff = 0.00000017 .
+difference : 0.00000015	0.00000002	0.00000001	0.00000013
+Sun Aug  2 06:36:15 2015
+h : 4 m : 52 s : 37 
+iter1 = 14 .	 The difference_eff = 0.00000015 .
+difference : 0.00000015	0.00000002	0.00000000	0.00000012
+Sun Aug  2 06:58:40 2015
+h : 5 m : 15 s : 2 
+iter1 = 15 .	 The difference_eff = 0.00000015 .
+difference : 0.00000014	0.00000001	0.00000000	0.00000012
+Sun Aug  2 07:21:05 2015
+h : 5 m : 37 s : 27 
+number of the minus A : 0
